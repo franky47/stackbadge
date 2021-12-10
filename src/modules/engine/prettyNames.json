@@ -1,0 +1,16 @@
+{
+  "@chakra-ui/react": "Chakra UI",
+  "@sentry/node": "Sentry <small>(node)</small>",
+  "@sentry/browser": "Sentry <small>(browser)</small>",
+  "@sentry/integrations": "Sentry <small>(integrations)</small>",
+  "@emotion/react": "Emotion <small>(react)</small>",
+  "@emotion/styled": "Emotion <small>(styled)</small>",
+  "fastify": "Fastify",
+  "framer-motion": "Framer Motion",
+  "jest": "Jest",
+  "next": "Next.js",
+  "react": "React",
+  "react-dom": "React DOM",
+  "typescript": "TypeScript",
+  "webpack": "Webpack"
+}
